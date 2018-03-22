@@ -9,7 +9,7 @@ CREATE TABLE AGENCIES (
     holiday_id varchar(255)
     )
 
-select * from agencies
+select * from AGENCIES 
 
 
 -----------------------------
